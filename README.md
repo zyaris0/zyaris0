@@ -21,34 +21,9 @@
 
 | **Domain** | **Arsenal** |
 | :--- | :--- |
-| **💻 Languages** | `C++`, `Java`, `C`, `Assembly (x86/x64)`, `Python` |
+| **💻 Languages** | `C++`, `Java`, `C`, `Assembly (x86/x64)` |
 | **🕵️ Reverse Engineering** | Ghidra, IDA Pro, x64dbg, Cheat Engine, JADX |
 | **🎮 Minecraft Exploiting** | Bytecode Manipulation (ASM), JNI, Mixins, Packet Injection, Fabric/Forge API |
-| **⚙️ Systems & Dev** | Git, CMake, Make, GDB, Windows API, Linux Kernel |
-
----
-
-### **💥 Notable Exploits & Projects**
-
-> *A curated list of my digital firepower.*
-
-#### **🦠 [Minecraft RCE PoC] - "Project Chimera"**
-*A proof-of-concept for a critical remote code execution vulnerability found in a popular Minecraft mod launcher. Demonstrates unsafe deserialization.*
-*`C++` `Java` `Reverse Engineering` `Exploit Development`*
-
-#### **💣 [Client Crasher Suite] - "NetheriteDoS"**
-*A modular toolkit for stress-testing and crashing Minecraft clients & servers using malformed packets and resource exhaustion techniques.*
-*`Java` `Netty` `Minecraft Protocol`*
-
-#### **🛡️ [Anti-Anti-Cheat Research] - "Ghost Buster"**
-*A research project analyzing the inner workings of a popular Minecraft anti-cheat, documenting its heuristic patterns and potential blind spots.*
-*`C++` `Kernel` `Reverse Engineering`*
-
-#### **⚡ [ZyaLib] - "My Utility Core"**
-*A lightweight, high-performance utility library I built for my C++ projects, featuring memory hacking, pattern scanning, and hooking mechanisms.*
-*`C++` `WinAPI` `Hooking`*
-
-*(You can add more projects here as you create them!)*
 
 ---
 
@@ -84,9 +59,8 @@
 
 > *Let's talk tech, exploits, or anime.*
 
-*   **💬 Discord:** `zyaris0` (Your Discord Tag)
-*   **📧 Email:** [your.email@domain.com](mailto:your.email@domain.com)
-*   **🐦 Twitter:** [@zyaris0](https://twitter.com/zyaris0) (If you have one)
+*   **💬 Discord:** `joyelthedev` ()
+*   **📧 Email:** [luckyfire989@gmail.com]
 
 ---
 <p align="center">
