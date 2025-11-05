@@ -3,9 +3,9 @@
 ## 👋 Hi, I'm [Joyel]!
 
 ### 🧑‍💻 About Me
-- 🌟 Passionate developer and tech lover  
+- 🌟 A passionate Minecraft developer & exploit researcher from India  
 - 🚀 Building tools, mods & low-level software  
-- 🎮 Gamer | 📺 Anime watcher  
+- 🎮 Gamer | 📺 Anime watcher | ArmWrestler| Fighter!
 - 💡 Always learning & exploring  
 
 ---
