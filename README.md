@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**zyaris0/zyaris0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👋 Hi, I'm [Joyel]!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+- 🌟 Passionate developer and tech lover  
+- 🚀 Building tools, mods & low-level software  
+- 🎮 Gamer | 📺 Anime watcher  
+- 💡 Always learning & exploring  
+
+---
+
+### 🛠️ Tech Stack
+**Languages:** C++, Java,
+**Interests:** Reverse engineering, OS dev, Minecraft client dev, security
+
+---
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=zyaris0&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
+
+---
+
+
+---
+
+### ⭐ Pinned Projects
+Check out some of my favorite work below 👇
