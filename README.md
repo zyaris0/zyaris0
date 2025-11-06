@@ -1,4 +1,4 @@
-
+<div class="tenor-gif-embed" data-postid="8064695706085810359" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/tifagojo-gojo-satoru-tifagojo-kenjaku-gojo-tifagojo-gif-8064695706085810359">Tifagojo Gojo Satoru Tifagojo GIF</a>from <a href="https://tenor.com/search/tifagojo-gifs">Tifagojo GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 👋 Hi, I'm **Joyel** | `./hacker_mode --activate`
