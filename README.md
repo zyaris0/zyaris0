@@ -1,4 +1,4 @@
-![Preview](assets/e9e9c235-6244-44bf-8c8c-d8354abb8ec3.jpeg)
+<a href="https://imageresizer.com/bulk-resize" target="_blank">Bulk Image Resizer</a>
 
 
 👋 Hi, I'm **Joyel** | `./hacker_mode --activate`
