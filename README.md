@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="8064695706085810359" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/tifagojo-gojo-satoru-tifagojo-kenjaku-gojo-tifagojo-gif-8064695706085810359">Tifagojo Gojo Satoru Tifagojo GIF</a>
+
 
 👋 Hi, I'm **Joyel** | `./hacker_mode --activate`
 
@@ -86,5 +86,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zyaris0&color=blueviolet&style=flat-square" alt="Profile views" />
   <br>
-  <img src="[https://tenor.com/search/tifagojo-gifs](https://cdn.discordapp.com/attachments/1253307023391592500/1305466571749199872/c06c2b9f16567b653e62bea9698a7993.gif)" width="150" alt="Gojo chill">
+  <img src="https://cdn.discordapp.com/attachments/1253307023391592500/1305466571749199872/c06c2b9f16567b653e62bea9698a7993.gif" width="150" alt="Gojo chill">
 </p>
