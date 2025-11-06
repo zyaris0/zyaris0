@@ -6,7 +6,7 @@
 
 ## **☢️ Cybernetic Core Dump**
 
-<img align="right" src="https://media1.tenor.com/m/7OUU7nuvpRAAAAAd/gojo-satoru-gojo.gif" width="300" alt="Gojo Satoru GIF">
+<img align="right" src="https://tenor.com/jLUysBvf5Fj.gif" width="300" alt="Gojo Satoru GIF">
 
 > A 16-year-old Minecraft security researcher & low-level developer from India, specializing in the art of digital chaos. I find joy in bending software to its breaking point, from crafting elegant exploits to inducing catastrophic client crashes. The glitch is my canvas.
 
