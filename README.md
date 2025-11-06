@@ -52,7 +52,7 @@ public class Joyel {
 
 
 
-Domain	Arsenal
+**Domain	Arsenal**
 
 💻 Languages	C++, Java,  Assembly (x86/x64)
 
