@@ -26,20 +26,25 @@
 
 ```java
 public class Joyel {
-    String name = "Joyel";
-    int age = 16;
-    String country = "India";
-    String field = "Exploit Researcher @ Crasher";
-    String studentStatus = "Commerce Student - First Year";
-    String[] languages = {"Java", "C++"};
-    String[] hobbies = {"Armwrestling", "Fighting"};
-    String funFact = "I break clients for fun.";
+    private String name = "Joyel";
+    private int age = 16;
+    private String country = "India";
+    private String field = "Exploit Researcher @ Crasher";
+    private String studentStatus = "Commerce Student - First Year";
+    private String[] languages = {"Java", "C++"};
+    private String[] hobbies = {"Armwrestling", "Fighting"};
+    private String funFact = "I break clients for fun.";
 
     public void introduce() {
         System.out.println("Hey, I'm " + name + " — a " + age + "-year-old " + field + " from " + country + ".");
         System.out.println("I'm a " + studentStatus + " who loves " + String.join(" & ", hobbies) + ".");
         System.out.println("I code in " + String.join(", ", languages) + ".");
         System.out.println("Fun Fact: " + funFact);
+    }
+
+    public static void main(String[] args) {
+        Joyel joyel = new Joyel();
+        joyel.introduce();
     }
 }
 ```
