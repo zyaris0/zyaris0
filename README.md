@@ -1,3 +1,6 @@
+<img align="left" width="174" src="./assets/e9e9c235-6244-44bf-8c8c-d8354abb8ec3.jpeg"></a>
+
+
 👋 Hi, I'm **Joyel** | `./hacker_mode --activate`
 
 <a href="https://ko-fi.com/yourkofi" target="_blank">
