@@ -1,4 +1,4 @@
-<img align="right" width="180" src="./assets/e9e9c235-6244-44bf-8c8c-d8354abb8ec3.jpeg"></a>
+<img align="center" width="180" src="./assets/e9e9c235-6244-44bf-8c8c-d8354abb8ec3.jpeg"></a>
 
 
 👋 Hi, I'm **Joyel** | `./hacker_mode --activate`
