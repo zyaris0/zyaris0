@@ -14,6 +14,8 @@
 > I find joy in bending software to its breaking point, from crafting elegant exploits to inducing catastrophic client crashes.  
 > The glitch is my canvas.
 
+
+
 * 🎮 **Minecraft Focus:** Client Modification, Protocol Exploitation, Anti-Cheat Analysis, Server Crashers  
 * 🛠️ **Engineering:** Reverse Engineering, OS Dev, Weaponized Tool Development  
 * ⚔️ **Hobbies:** Arm Wrestling, Combat Sports, Consuming Anime & Building Strength (IRL & Digital)  
