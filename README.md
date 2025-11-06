@@ -86,5 +86,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zyaris0&color=blueviolet&style=flat-square" alt="Profile views" />
   <br>
-  <img src="https://tenor.com/search/tifagojo-gifs" width="150" alt="Gojo chill">
+  <img src="[https://tenor.com/search/tifagojo-gifs](https://cdn.discordapp.com/attachments/1253307023391592500/1305466571749199872/c06c2b9f16567b653e62bea9698a7993.gif)" width="150" alt="Gojo chill">
 </p>
