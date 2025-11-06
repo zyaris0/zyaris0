@@ -86,5 +86,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zyaris0&color=blueviolet&style=flat-square" alt="Profile views" />
   <br>
-  <img src="https://media.tenor.com/Pn2shD5n3CgAAAAd/gojo-satoru-chill.gif" width="150" alt="Gojo chill">
+  <img src="https://tenor.com/search/tifagojo-gifs" width="150" alt="Gojo chill">
 </p>
