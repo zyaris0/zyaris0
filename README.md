@@ -46,24 +46,6 @@
 
 ---
 
-### **💥 Notable Exploits & Projects**
-
-> *"Throughout the GitHub and StackOverflow, I alone am the honored one."*
-
-#### 🦠 **Client Crasher Suite — "Domain Expansion"**
-*A modular toolkit for stress-testing and crashing Minecraft clients using malformed packets and resource exhaustion.*  
-`Java` `Netty` `Minecraft Protocol`
-
-#### 🛡️ **Anti-Cheat Research — "Six Eyes Analysis"**
-*Reverse engineering popular anti-cheats to document their heuristic patterns and blind spots.*  
-`C++` `Kernel` `Reverse Engineering`
-
-#### ⚡ **ZyaLib — "Limitless Utility Core"**
-*A lightweight C++ library featuring memory hacking, pattern scanning, and hooking mechanisms.*  
-`C++` `WinAPI` `Hooking`
-
----
-
 ### **📊 Battlefield Statistics & Intel**
 
 > *The metrics of mayhem.*
